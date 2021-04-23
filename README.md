@@ -1,5 +1,5 @@
 
-# Ruby Suffix Tree
+# Generalized Suffix Tree - Ruby
 ### Construct suffix tree using Ukkonen's algorithm
 To create Suffix tree
 
@@ -11,7 +11,7 @@ To get the longest common substring from all the words
     tree.longest_common_substring
     => "an"
 
-To get the longest common substring from at least 2 strings
+To get the longest common substring from at least k strings
 
     tree.longest_common_substring(2)
     => "sand" # from the first 2 strings
