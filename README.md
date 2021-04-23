@@ -27,9 +27,13 @@ To get the longest common substring from at least k strings
     => "and" # from first 3 strings
 ## Referrances
 https://en.wikipedia.org/wiki/Ukkonen%27s_algorithm
+
 https://en.wikipedia.org/wiki/Longest_common_substring_problem
+
 http://web.stanford.edu/~mjkay/gusfield.pdf
+
 https://web.cs.ucdavis.edu/~gusfield/cs224f09/commonsubstrings.pdf
+
 
 ## Author
 [Sudheer Meka](https://github.com/sudheer-meka)
