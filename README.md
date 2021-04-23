@@ -7,7 +7,7 @@
     gem 'suffix_tree_ruby', '~> 0.0.1'
 Open a ruby interactive console:
 
-require 'suffix_tree'
+    require 'suffix_tree'
 
 ### Construct suffix tree using Ukkonen's algorithm
 To create Suffix tree
